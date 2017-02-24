@@ -1,1 +1,3 @@
-Тема блога prestapro для wordpress
+Тема блога prestapro на wordpress
+
+http://blog.prestapro.ru/
